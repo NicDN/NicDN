@@ -1,7 +1,8 @@
 #### My name is Nicolas 👋
 
-I am currently a Master’s Student in Machine Learning at Mila - Quebec Artificial Intelligence Institute <br>
-I have strong interests in Machine Learning related topics 
+- 👨‍🎓 I have a bachelor degree in Software Engineering from Polytechnique Montréal. <br>
+- 📚 I am currently a Master’s Student in Machine Learning at Mila - Quebec Artificial Intelligence Institute <br>
+- 🧠 I have strong interests in Machine Learning related topics. 
 
 Feel free to reach out !
 
