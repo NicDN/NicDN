@@ -1,4 +1,7 @@
-## Hi there 👋
+I am currently a Master’s Student in Machine Learning at Mila - Quebec Artificial Intelligence Institute
+I have strong interests in Machine Learning related topics 
+
+Feel free to reach out !
 
 <!--
 **NicDN/NicDN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
