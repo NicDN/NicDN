@@ -1,5 +1,6 @@
 #### My name is Nicolas 👋
 
+- I am an incoming Machine Learning Ops (MLOps) inter at Electronic Arts Montreal this summer
 - 👨‍🎓 I have a bachelor degree in Software Engineering from Polytechnique Montréal. <br>
 - 📚 I am currently a Master’s Student in Machine Learning at Mila - Quebec Artificial Intelligence Institute <br>
 - 🧠 I have strong interests in Machine Learning related topics. 
